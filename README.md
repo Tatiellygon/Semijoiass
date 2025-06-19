@@ -16,3 +16,12 @@ Tela de Promoções (Promotions Screen): Lista promoções ativas, como desconto
 Tela de Contato (Contact Screen): Fornece opções de contato via WhatsApp, Instagram e e-mail, com links clicáveis. Também exibe os horários de atendimento (segunda a sexta: 9h às 18h; sábado: 9h às 13h; domingo: fechado).
 Gerenciamento do Carrinho: Utiliza um contexto (CartContext) para gerenciar o estado do carrinho globalmente, permitindo adicionar múltiplos itens e limpar o carrinho, com persistência entre as telas.
 O aplicativo oferece uma experiência de compra intuitiva, com navegação fluida, gerenciamento de carrinho e acesso fácil a informações de contato e promoções.
+
+
+PARA INICIAR O PROJETO USE NO TERMINAL PROMPT
+
+npx expo start
+
+logo após escolha A para android
+
+O APLICATIVO FOI TESTADO DIVERSAS VEZES, SEM BUGS, CASO HAJA BUGS, VOCÊ CONFIGUROU ERRADO PARA INICIAR OU FEZ ALGO ERRADO
